@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #eff6ff;
+  padding: 25px;
+  width: 65%;
+  margin: 85px auto;
+  box-shadow: 0 0 5px #4338ca;
+}
+
+/* .App h1 span {
+  color: blue;
+} */
